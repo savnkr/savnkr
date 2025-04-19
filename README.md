@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-  A Ph.D. student at IIT Delhi <br/>
+<p align="left">
+  Ph.D. student at IIT Delhi <br/>
 </p>
 
 ---
