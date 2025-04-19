@@ -6,7 +6,7 @@
 
 ---
 
-### 📊 Savn's GitHub Stats
+### 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
 <p align="center">
