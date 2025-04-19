@@ -16,6 +16,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=savnkr&theme=react-dark" />
-</p>
+
