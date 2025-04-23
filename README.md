@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <p align="left">
-  Ph.D. student at IIT Delhi <br/>
+  Ph.D. student <br/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+
 
 <!-- GitHub Stats Card -->
 <!-- <p align="center"> -->
