@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <!-- <h3>Hi there 👋, I'm Sawan</h3> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&pause=1000&color=787062&center=true&vCenter=true&repeat=true&random=false&width=1300&height=140&lines=✩+Hi+there!+I'm+Sawan+✩" />
+</div>
 
 <p align="left">
   Ph.D. student <br/>
